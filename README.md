@@ -17,7 +17,7 @@ This is a Django-based web application that integrates OpenAI's ChatGPT to enabl
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/your-username/django-chatgpt.git
+git clone https://github.com/Divyanshmishra101010/chatgpt_django_project.git
 cd django-chatgpt
 ```
 
